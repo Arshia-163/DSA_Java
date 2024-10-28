@@ -1,13 +1,7 @@
-package pack;
-
 public class Oops3 {
-    double l; // if we call it private - data hiding can access 
+    double l;
     double w;
     double h;
-
-public double getL(){
-    return l; // created a fun after making it private access in main
-}
     Oops3(){ // constructor
         this.h = -1;
         this.w = -1;
