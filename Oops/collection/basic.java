@@ -1,4 +1,4 @@
-package pack.collection;
+package pack.oops.collection;
 
 public class basic {
     enum week{

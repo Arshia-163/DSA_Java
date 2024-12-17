@@ -1,4 +1,4 @@
-package pack.Interface_java.nested;
+package pack.oops.Interface_java.nested;
 
 public class A {
     // nested interface can be declared any but 

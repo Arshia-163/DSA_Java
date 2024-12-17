@@ -1,5 +1,5 @@
-package pack;
-import pack.Access.*;
+package pack.oops;
+import pack.oops.Access.*;
 
 public class human {
 int age;

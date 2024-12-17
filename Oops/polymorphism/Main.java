@@ -1,4 +1,4 @@
-package pack.polymorphism;
+package pack.oops.polymorphism;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package pack.polymorphism;
+package pack.oops.polymorphism;
 
 public class Sq extends shapes{
 

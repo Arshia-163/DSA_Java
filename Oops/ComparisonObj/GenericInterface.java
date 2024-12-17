@@ -1,4 +1,4 @@
-package pack.ComparisonObj;
+package pack.oops.ComparisonObj;
 
 public interface GenericInterface<T> {
 

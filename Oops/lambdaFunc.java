@@ -1,6 +1,5 @@
-package pack;
+package pack.oops;
 import java.util.ArrayList;
-import java.util.function.Consumer;
 
 //it expresses a func as a block of code without having to define a method;
 public class lambdaFunc {

@@ -1,3 +1,5 @@
+package pack.oops;
+
 public class Oops3 {
     double l;
     double w;

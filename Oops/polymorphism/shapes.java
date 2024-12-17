@@ -1,4 +1,4 @@
-package pack.polymorphism;
+package pack.oops.polymorphism;
 
 public class shapes {
     // final - if add this befor fun name then we cannot override it diff classes which leads to early binding

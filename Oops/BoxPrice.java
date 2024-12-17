@@ -1,4 +1,4 @@
-package pack;
+package pack.oops;
 
 public class BoxPrice extends Box_oop  {
     double cost;

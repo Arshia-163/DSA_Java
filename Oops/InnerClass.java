@@ -1,4 +1,4 @@
-package pack;
+package pack.oops;
 // class Test{
 //    static String name;
 //     public Test(String name){

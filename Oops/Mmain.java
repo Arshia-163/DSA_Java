@@ -1,4 +1,4 @@
-package pack;
+package pack.oops;
 
 public class Mmain {
     public static void main(String[] args) {

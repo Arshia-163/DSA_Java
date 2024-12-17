@@ -1,4 +1,4 @@
-package pack.Interface_java;
+package pack.oops.Interface_java;
 
 public class Main {
     public static void main(String[] args) {

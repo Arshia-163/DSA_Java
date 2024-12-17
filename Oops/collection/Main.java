@@ -1,7 +1,8 @@
-package pack.collection;
-import java.util.List;
+package pack.oops.collection;
+
 import java.util.ArrayList;
 import java.util.LinkedList;
+import java.util.List;
 import java.util.Vector;
 
 public class Main {
